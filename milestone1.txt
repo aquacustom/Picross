@@ -1,0 +1,13 @@
+Milestone 1:
+
+We didn't know a txt was due with each milestone, sorry about that.
+
+Implemented basic game logic within game.swift. Features are as follows:
+- createRandomBoard(row, col, mode)
+	·Creates a random row by col board off of which to play a game in mode that you specify, for basic game currently is just black and white.
+- updateBoard(row, col, color)
+	·Changes the value of the player's board at (row,col) to be specified color
+- getRowString(row)
+	·Parameterizes row into filled and empty space. [Left part of picross board]
+- getColString(col)
+	·Parameterizes col into filled and empty space. [Top part of picross board]

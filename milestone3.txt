@@ -1,0 +1,5 @@
+We were able to polish off the game board and made it look a lot nicer than milestone 2. 
+We also were able to implement pre-made boards that are randomly generated. 
+In addition to our goals we were able to implement a button that allowed for the user to choose the size of the board they want to play with. 
+We also implemented saving the state of the board which we did not complete from milestone 2. 
+We did not complete our stretch goal of incorporating colored blocks into the game but we were able to incorporate our stretch goal of adding a leadership board for the players.

@@ -1,0 +1,2 @@
+Milestone 2:
+We were able to implement the reset button that clears the current board back to white when it is clicked. We also implemented a timer that counts up from 0 when the game is started. We also formatted the board with the numbers on the outside of the grid and the grid itself. We added 3 buttons to the bottom of the screen and when they are clicked they allow the player to fill a board square with that color. We were unable to complete the part to save the state of the board, but we are hoping to complete that in the next milestone
